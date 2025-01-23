@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="home-page">
+    <section class="hero">
+        <h2>Welcome to the Government Subsidy Awareness Platform</h2>
+        <p>Explore and learn about various subsidies provided by the Indian government from 1947 to date.</p>
+    </section>
+
+    <section class="subsidies-section">
+        <h3>Available Subsidies</h3>
+        <div class="subsidies-list">
+            {% for subsidy in subsidies %}
+            <div class="subsidy-card">
+                <h4>{{ subsidy.name }}</h4>
+                <p><strong>Category:</strong> {{ subsidy.category }}</p>
+                <a href="/subsidy/{{ subsidy.id }}" class="btn-details">More Details</a>
+            </div>
+            {% endfor %}
+        </div>
+    </section>
+
+    <!-- <section class="search-section">
+        <h3>Search for Subsidies</h3>
+        <form id="search-form" class="search-form">
+            <input type="text" id="keyword" name="keyword" placeholder="Enter keyword (e.g., agriculture, health)" />
+            <button type="submit">Search</button>
+        </form>
+        <div id="results" class="results-container"></div>
+    </section> -->
+
+    <section class="search-section">
+        <h3>Search for Subsidies</h3>
+        <form id="search-form" class="search-form">
+            <input type="text" id="keyword" name="keyword" placeholder="Enter keyword (e.g., agriculture, health)" />
+            <button type="submit">Search</button>
+        </form>
+        <div id="results" class="results-container"></div>
+    </section>
+
+</div>
+{% endblock %}

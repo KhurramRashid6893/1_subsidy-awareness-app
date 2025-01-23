@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="subsidy-details">
+    <div class="card">
+        <h2 class="subsidy-name">{{ subsidy.name }}</h2>
+        <div class="subsidy-info">
+            <p><strong>Category:</strong> <span class="highlight">{{ subsidy.category }}</span></p>
+            <p><strong>Eligibility:</strong> {{ subsidy.eligibility }}</p>
+        </div>
+        <div class="more-info">
+            <p>
+                <strong>More Information:</strong>
+                <a href="{{ subsidy.official_link }}" class="btn" target="_blank">Visit Official Website</a>
+            </p>
+        </div>
+        <a href="/" class="back-btn">Back to Home</a>
+    </div>
+</div>
+{% endblock %}

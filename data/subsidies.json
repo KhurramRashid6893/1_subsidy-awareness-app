@@ -1,0 +1,143 @@
+[
+    {
+        "id": 1,
+        "name": "Agricultural Subsidy",
+        "category": "Agriculture",
+        "eligibility": "Farmers with land < 5 acres",
+        "official_link": "https://agriwelfare.gov.in/en/Major"
+    },
+    {
+        "id": 2,
+        "name": "Education Loan Subsidy",
+        "category": "Education",
+        "eligibility": "Students with annual income < ₹5L",
+        "official_link": "https://education.gov.in/"
+    },
+    {
+        "id": 3,
+        "name": "Healthcare Subsidy",
+        "category": "Health",
+        "eligibility": "BPL cardholders",
+        "official_link": "https://www.nhp.gov.in/"
+    },
+    {
+        "id": 4,
+        "name": "Pradhan Mantri Fasal Bima Yojana",
+        "category": "Agriculture",
+        "eligibility": "All farmers cultivating notified crops",
+        "official_link": "https://pmfby.gov.in/"
+    },
+    {
+        "id": 5,
+        "name": "Startup India Subsidy",
+        "category": "Entrepreneurship",
+        "eligibility": "DPIIT registered startups",
+        "official_link": "https://www.startupindia.gov.in/"
+    },
+    {
+        "id": 6,
+        "name": "PMAY - Urban",
+        "category": "Housing",
+        "eligibility": "EWS households with income < ₹3L",
+        "official_link": "https://pmaymis.gov.in/"
+    },
+    {
+        "id": 7,
+        "name": "PM Kusum Scheme",
+        "category": "Renewable Energy",
+        "eligibility": "Farmers owning barren or cultivable land",
+        "official_link": "https://mnre.gov.in/"
+    },
+    {
+        "id": 8,
+        "name": "Skill India Subsidy",
+        "category": "Skill Development",
+        "eligibility": "Individuals aged 18-35 seeking skill training",
+        "official_link": "https://www.skillindia.gov.in/"
+    },
+    {
+        "id": 9,
+        "name": "National Scholarship Scheme",
+        "category": "Education",
+        "eligibility": "Students scoring above 80% in 10th or 12th",
+        "official_link": "https://scholarships.gov.in/"
+    },
+    {
+        "id": 10,
+        "name": "Digital India Subsidy",
+        "category": "Technology",
+        "eligibility": "Tech-based startups or initiatives",
+        "official_link": "https://www.digitalindia.gov.in/"
+    },
+    {
+        "id": 11,
+        "name": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+        "category": "Employment",
+        "eligibility": "Rural households in need of employment",
+        "official_link": "https://nrega.nic.in/"
+    },
+    {
+        "id": 12,
+        "name": "Midday Meal Scheme",
+        "category": "Health & Nutrition",
+        "eligibility": "Students in government schools (Grades 1-8)",
+        "official_link": "https://pmposhan.education.gov.in/"
+    },
+    {
+        "id": 13,
+        "name": "Stand-Up India Scheme",
+        "category": "Entrepreneurship",
+        "eligibility": "SC/ST or women entrepreneurs",
+        "official_link": "https://www.standupmitra.in/"
+    },
+    {
+        "id": 14,
+        "name": "PM Garib Kalyan Yojana",
+        "category": "Welfare",
+        "eligibility": "BPL families",
+        "official_link": "https://pmgky.gov.in/"
+    },
+    {
+        "id": 15,
+        "name": "National Food Security Act Subsidy",
+        "category": "Welfare",
+        "eligibility": "BPL households",
+        "official_link": "https://nfsa.gov.in/"
+    },
+    {
+        "id": 16,
+        "name": "PMAY - Rural",
+        "category": "Housing",
+        "eligibility": "Rural households without pucca houses",
+        "official_link": "https://pmayg.nic.in/"
+    },
+    {
+        "id": 17,
+        "name": "Atal Pension Yojana",
+        "category": "Pension",
+        "eligibility": "Individuals aged 18-40 with a savings account",
+        "official_link": "https://npscra.nsdl.co.in/nsdl/scheme-details/atal-pension-yojana/"
+    },
+    {
+        "id": 18,
+        "name": "Pradhan Mantri Matru Vandana Yojana",
+        "category": "Women Welfare",
+        "eligibility": "Pregnant women and lactating mothers",
+        "official_link": "https://wcd.nic.in/schemes/pradhan-mantri-matru-vandana-yojana"
+    },
+    {
+        "id": 19,
+        "name": "National Livelihood Mission",
+        "category": "Employment",
+        "eligibility": "SHGs in rural areas",
+        "official_link": "https://aajeevika.gov.in/"
+    },
+    {
+        "id": 20,
+        "name": "PM JAY - Ayushman Bharat",
+        "category": "Health",
+        "eligibility": "Households identified in SECC data",
+        "official_link": "https://pmjay.gov.in/"
+    }
+
+]

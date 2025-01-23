@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Agricultural Subsidy",
+        "category": "Agriculture",
+        "eligibility": "Farmers with land < 5 acres",
+        "official_link": "https://agricoop.gov.in/"
+    },
+    {
+        "id": 2,
+        "name": "Education Loan Subsidy",
+        "category": "Education",
+        "eligibility": "Students with annual income < ₹5L",
+        "official_link": "https://education.gov.in/"
+    },
+    {
+        "id": 3,
+        "name": "Healthcare Subsidy",
+        "category": "Health",
+        "eligibility": "BPL cardholders",
+        "official_link": "https://www.nhp.gov.in/"
+    }
+]
